@@ -22,6 +22,7 @@ _Note_: Imageiry will convert the _body_ of the page only.
 ![image](https://i.ibb.co/RDV768h/image.png)
 ## Ready made templates.
 **Movies**
+
 Using dynamic images for your content enrich your website and ideally enhance your user experience especially for sharable content.
 *Example*:
 ![Default template](http://www.imageiry.com/api/movie?title=How%20to%20be%20awesome&description=be%20like%20man&moreInfo=This%20is%20more%20info%20about%20the%20link&rate=3&tag=PG-13)
