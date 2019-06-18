@@ -3,6 +3,7 @@
 ## Overview
 
 **Imageiry** is free and open source product that allows to create image from `html` design 👈.
+
 *You can use imageiry to : *
 
  - Turn your HTML Design into image.
@@ -13,6 +14,7 @@
 ## Usage
 
 Imageiry has an direct api to convert any HTML based design into image 
+
 `http://www.imageiry.com/convert`  [**POST]** ⚡
 
 Field | Description
@@ -52,6 +54,7 @@ posterImage| _optional_
  
 
 **Sample**: 
+
     http://www.imageiry.com/api/movie?title=How%20to%20be%20awesome&description=be%20like%20man&moreInfo=This%20is%20more%20info%20about%20the%20link&rate=3&tag=PG-13 🚦
 
 
@@ -75,6 +78,7 @@ author | _required_
 image | _optional_
 
 **Sample**
+
 http://www.imageiry.com/api/article?title=Build%20software%20better,%20together.&author=Ahmed%20Ibrahim 🚦
 
 ## To be continued.💫
