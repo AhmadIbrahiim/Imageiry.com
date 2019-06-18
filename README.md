@@ -13,9 +13,14 @@
 
 Imageiry has an direct api to convert any HTML based design into image 
 `http://www.imageiry.com/convert`  [**POST]**
-
 Field | Description
 ------|------------
 html | _Any html content_
 _Note_: Imageiry will convert the _body_ of the page only.
+
+![image](https://i.ibb.co/RDV768h/image.png)
+## Ready made templates.
+**Movies**
+
+![Default template](http://www.imageiry.com/api/movie?title=How%20to%20be%20awesome&description=be%20like%20man&moreInfo=This%20is%20more%20info%20about%20the%20link&rate=3&tag=PG-13)
 
