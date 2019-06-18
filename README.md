@@ -1,4 +1,4 @@
-# Imageiry.com API 
+# Imageiry.com API 🍅
 
 ## Overview
 **Imageiry** is free and open source product that allows to create image from `html` design.
