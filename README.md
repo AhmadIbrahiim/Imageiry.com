@@ -27,6 +27,7 @@ _Note_: Imageiry will convert the _body_ of the page only.
 
 
 **Movies**
+
 Using dynamic images for your content enrich your website and ideally enhance your user experience especially for sharable content.
 
 *Example  *:
