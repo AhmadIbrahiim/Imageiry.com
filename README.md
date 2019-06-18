@@ -13,7 +13,7 @@
 ## Usage
 
 Imageiry has an direct api to convert any HTML based design into image 
-`http://www.imageiry.com/convert`  [**POST]**⚡
+`http://www.imageiry.com/convert`  [**POST]** ⚡
 
 Field | Description
 ------|------------
@@ -35,7 +35,7 @@ Using dynamic images for your content enrich your website and ideally enhance yo
 
 
 
-_API_ `http://www.imageiry.com/api/movie` **[GET]**⚡
+_API_ `http://www.imageiry.com/api/movie` **[GET]** ⚡
 
 Paramter | state 
 ------|------------
@@ -65,7 +65,7 @@ posterImage| _optional_
 
 **Usage**
 
-_API_ `http://www.imageiry.com/api/article` **[GET]**⚡
+_API_ `http://www.imageiry.com/api/article` **[GET]** ⚡
 
 Paramter | state 
 ------|------------
