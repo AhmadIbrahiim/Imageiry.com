@@ -47,7 +47,7 @@ url | _required_
 color | _optional_
 
 **_Response_**
-![image](https://www.imageiry.com/api/default?title=Hi! Github&url=www.Imageiry.com)
+![image](https://www.imageiry.com/api/default?title=Hi!Github&url=www.Imageiry.com)
 
 
 **Movies**
