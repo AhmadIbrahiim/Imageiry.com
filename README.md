@@ -2,9 +2,16 @@
 
 ## Overview
 
-**Imageiry** is free and open source product that allows to create image from `html` design 👈.
+**Imageiry** Create a dynamic image representing your content for sharable content. To make it look stunning    👈.
 
-*You can use imageiry to : *
+Samples : 
+
+![image](https://i.ibb.co/kcNvYPQ/image.png)
+
+![image](https://i.ibb.co/MSfCPjV/image.png)
+
+
+*Also,You can use imageiry to : *
 
  - Turn your HTML Design into image.
  - When you use Open Graph tags to attach rich photos, you need an image, and ideally, an image based on your content
@@ -26,6 +33,21 @@ _Note_: Imageiry will convert the _body_ of the page only.
 
 
 ## Ready made templates.
+
+**Default Template**
+
+Using dynamic images for your content enrich your website and ideally enhance your user experience especially for sharable content.
+
+`http://www.imageiry.com/api/default`  [**GET]** ⚡
+
+Paramter | Description
+------|------------
+title | _required
+url | _required_
+color | _optional_
+
+**_Response_**
+![image](https://www.imageiry.com/api/default?title=Hi! Github&url=www.Imageiry.com)
 
 
 **Movies**
