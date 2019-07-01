@@ -1,4 +1,4 @@
-# [Imaageiry.com 😺 ](https://www.imageiry.com/)
+# [Imageiry.com 😺 ](https://www.imageiry.com/)
  
 
 ## Overview
