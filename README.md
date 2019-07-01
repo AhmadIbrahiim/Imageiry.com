@@ -1,10 +1,11 @@
-# Imageiry.com API 😺
+# [Imaageiry.com 😺 ](https://www.imageiry.com/)
+ 
 
 ## Overview
 
 **Imageiry** Create a dynamic image representing your content for sharable content. To make it look stunning    👈.
 
-Samples : 
+See the images in real facebook post : 
 
 ![image](https://i.ibb.co/kcNvYPQ/image.png)
 
@@ -16,6 +17,45 @@ Samples :
  - Turn your HTML Design into image.
  - When you use Open Graph tags to attach rich photos, you need an image, and ideally, an image based on your content
  - Enahnce the outfit for sharble content ( *With createing unquie meta image for each artical or blog* )
+
+
+## What is an Open Graph Image?
+
+Have you ever posted a hyperlink to Twitter, Facebook, or Slack and seen an image popup?
+How did your social network know how to "unfurl" the URL and get an image?
+The answer is in your `<head>`.
+
+The [Open Graph protocol](http://ogp.me) says you can put a `<meta>` tag in the `<head>` of a webpage to define this image.
+
+It looks like the following:
+
+```html
+<head>
+  <title>Title</title>
+  <meta property="og:image" content="http://example.com/logo.jpg" />
+</head>
+```
+
+
+## Why use this service?
+
+Read the [blog post](https://www.imageiry.com/blog/why-to-use-imageiry) for more info on the "Why" part.
+
+The short answer is that it would take a long time to painstakingly design an image for every single blog post. And we don't want the exact same image for every blog post because that wouldn't make the article stand out when it was shared to Twitter. 
+
+That's where `imageiry.com` comes in. We can simply pass the title of our blog post to our generator service and it will generate the image for us on the fly!
+
+It looks like the following:
+
+```html
+<head>
+  <title>Hello World</title>
+  <meta property="og:image" content="https://www.imageiry.com/api/default?title=Write%20your%20text&url=www.Imageiry.com" />
+</head>
+```
+
+Now try changing the title text `Write%20your%20text` to the title of your choosing and watch the magic happen ✨
+
 
 
 ## Usage
